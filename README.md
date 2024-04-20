@@ -8,7 +8,7 @@
 
 - You can access the deployed version of this project here - [Deploy Link]()
 
-- Search in your browser - [explore-mohitjaiswal.netlify.app]()
+- Search in your browser - []()
 
 ## Screenshots
 
