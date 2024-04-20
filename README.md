@@ -4,11 +4,6 @@
 - The application offers an innovative solution for users interested in exploring the geographic distribution of profiles, enhancing user engagement and interaction.
 -  This allows users to view a list of profiles and interactively explore the addresses of each profile on a map.
 
-## Deploy Link
-
-- You can access the deployed version of this project here - [Deploy Link]()
-
-- Search in your browser - []()
 
 ## Screenshots
 
@@ -27,7 +22,7 @@
 ## How to run the project ?
 To run the project use following steps:
 
-- Clone the repository ```git@github.com:mohitjaiswal28/Explore.git```
+
 - Navigate to project directory with ```cd your-project-dir-name```
 - Run ```npm install```
 - To start the server, run ```npm run start```
