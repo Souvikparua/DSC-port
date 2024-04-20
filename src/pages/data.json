@@ -1,0 +1,52 @@
+
+[
+  {
+    "id": 1,
+    "name": "Souvik Parua",
+    "age": 22,
+    "location": "India",
+    "occupation": "Frontend Developer",
+    "interests": "Software",
+    "address": "Baguihati, kolkata , West Bengal",
+    "image": "https://explore-mohit-19-4-2024.s3.ap-south-1.amazonaws.com/Profile+Pic.jpg",
+    "instagram": "souvik_2476/",
+    "linkedin": "souvikparua1"
+   },
+   {
+     "id": 2,
+     "name": "John Doe",
+     "age": 30,
+     "location": "New York",
+     "occupation": "Software Engineer",
+     "interests": "Reading, Hiking, Photography",
+     "address": "123 Main St, New York, NY, 10001",
+     "image": "https://explore-mohit-19-4-2024.s3.ap-south-1.amazonaws.com/Profile1.jpeg",
+     "instagram": "mohitjaiswal.28",
+     "linkedin": "mohitjaiswal28"
+    },
+    {
+      "id": 3,
+      "name": "Jane Smith",
+      "age": 25,
+      "location": "Los Angeles",
+      "occupation": "Graphic Designer",
+      "interests": "Traveling, Painting, Cooking",
+      "address": "456 Elm St, Los Angeles, CA, 90001",
+      "image": "https://explore-mohit-19-4-2024.s3.ap-south-1.amazonaws.com/Profile2.png",
+      "instagram": "mohitjaiswal.28",
+      "linkedin": "mohitjaiswal28"
+    },
+    {
+      "id": 4,
+      "name": "Michael Johnson",
+      "age": 35,
+      "location": "Chicago",
+      "occupation": "Marketing Manager",
+      "interests": "Sports, Movies, Music",
+      "address": "789 Oak St, Chicago, IL, 60601",
+      "image": "https://explore-mohit-19-4-2024.s3.ap-south-1.amazonaws.com/Profile3.png",
+      "instagram": "mohitjaiswal.28",
+      "linkedin": "mohitjaiswal28"
+    }
+  ]
+  
